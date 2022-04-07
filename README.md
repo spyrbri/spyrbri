@@ -1,8 +1,3 @@
-### Hi there 👋
-
-- 🔭 I’m currently working on Ruby/Elixir projects.
-- 🌱 I’m currently learning Elixir & Kafka
-
 ![9af928ed-5e6e-418d-a42c-799ffda3bd2a](https://user-images.githubusercontent.com/3419713/162136909-a69e22bf-c4aa-4636-af5a-90be00f60886.png)
 
 <!--
